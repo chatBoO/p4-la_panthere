@@ -827,10 +827,6 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
-.citation {
-    width: 100%;
-}
-
 #lightbox-modal .modal-dialog img {
     width: auto;
     max-height: 90vh;
